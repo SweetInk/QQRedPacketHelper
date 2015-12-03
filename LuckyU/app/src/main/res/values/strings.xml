@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LuckyU</string>
+    <string name="large_text">
+        Designed By Material\n\n
+        Just for fun\n\n
+        O(∩_∩)O~
+    </string>
+    <string name="description">QQ RedPacket Helper</string>
+    <string name="action_settings">About</string>
+    <string name="dialog_title">About LuckyU</string>
+    <string name="dialog_thanks">Thanks MrLei uncle</string>
+</resources>
