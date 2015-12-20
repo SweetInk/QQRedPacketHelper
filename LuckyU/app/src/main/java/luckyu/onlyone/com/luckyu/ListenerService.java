@@ -25,6 +25,7 @@ public class ListenerService extends AccessibilityService {
 	public void onAccessibilityEvent(AccessibilityEvent event) {
 		// TODO Auto-generated method stub
 		int eventType = event.getEventType();
+		// add commentz
 		switch (eventType) {
 		        case AccessibilityEvent.TYPE_NOTIFICATION_STATE_CHANGED:  
 		        //	event.get
